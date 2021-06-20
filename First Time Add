@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "BeardedTheme Black & Emerald",
+    "workbench.startupEditor": "none",
+    "terminal.integrated.tabs.enabled": false,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "editor.fontSize": 20
+}
